@@ -1,0 +1,1 @@
+time="2024-09-25T22:26:36Z" level=info msg="Configuration loaded from flags."
